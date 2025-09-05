@@ -1,6 +1,6 @@
 # Iara Medeiros
 
-**`Desenvolvedora de Software`**
+**`Engenheira de Software em formação`**
 
 Sou Iara Medeiros, uma entusiasta de 20 anos de tecnologia e novas linguagens, atualmente cursando Análise e Desenvolvimento de Sistemas pelo SenacEAD. Estou sempre em busca de novos conhecimentos para aprimorar minhas habilidades. 
 
