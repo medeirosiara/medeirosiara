@@ -1,6 +1,6 @@
 # Iara Medeiros
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedora de Software`**
 
 Sou Iara Medeiros, uma entusiasta de 20 anos de tecnologia e novas linguagens, atualmente cursando Análise e Desenvolvimento de Sistemas pelo SenacEAD. Estou sempre em busca de novos conhecimentos para aprimorar minhas habilidades. 
 
@@ -33,6 +33,14 @@ A paixão por criar e resolver problemas me impulsiona a explorar o vasto univer
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Linux" 
+    title="Linux"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" 
 />
 
 <br/>
